@@ -5,7 +5,7 @@ Originally based on room 232, this representation of a Mountwest classroom has s
 
 This is a multilayered lesson. the player character is a class, that inherits from character, character inherits from pawn, inherits from Actor. It's typically thought that you can only possess a Pawn, however, you can also possess an Actor. (Bonus points for how)
 
-Using this technique we can very easily share a function between the classes and have the function perform different tasks based on which object is receiving the call.
+Using an interface we can very easily share a function between the classes and have the function perform different tasks based on which object is receiving the call.
 
 The Player Blueprint also uses a Capsule trace to fire a single physics query in the direction of the cameras forward vector.
 
