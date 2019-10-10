@@ -1,7 +1,7 @@
 # VR-Classroom
 
 
-Originally based on room 232, this representation of a Mountwest classroom has so far been equipped (2019) with a small prototype level grey-box. Inside that level is a Player Character that implements an Interface, the walls are separate Blueprints that also implement the interface. 
+Originally based on room 232, this representation of a Mountwest classroom has so far been equipped (2019) with a small prototype level grey-box. Inside that level is a Player Character that implements an Interface, the walls are separate Blueprints that also implement the interface.
 
 This is a multilayered lesson. the player character is a class, that inherits from character, character inherits from pawn, inherits from Actor. It's typically thought that you can only possess a Pawn, however, you can also possess an Actor. (Bonus points for how)
 
@@ -15,6 +15,10 @@ The walls are broken up into North East West and South.
 
 At the time of writing this, they are all separate classes. The objective is to have the student realize a much more efficient way to move forward is to have all of the walls inherit from a single Wall class that uses the interface, iEvent, and then make children of that class so each wall inherits from a master wall. Now we can program the functionality they all share in one place.
 
-.. in 215 students should have a solid understanding of Class relationships, inheritance, and interfaces. 
+.. in 215 students should have a solid understanding of Class relationships, inheritance, and interfaces.
 
 //to be continued
+
+
+####Random Link for Cory
+https://github.com/Oculus-VR/UnrealEngine/tree/4.23
