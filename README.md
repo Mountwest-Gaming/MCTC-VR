@@ -22,3 +22,6 @@ At the time of writing this, they are all separate classes. The objective is to 
 
 ####Random Link for Cory
 https://github.com/Oculus-VR/UnrealEngine/tree/4.23
+
+Design Doc
+https://docs.google.com/document/d/1scwpX6WGKFBIi6jMBgyRhl1P3glBQNoceW_3mz-5HT4/edit?usp=sharing
