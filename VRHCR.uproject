@@ -9,10 +9,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OculusAvatar",
-			"Enabled": true
-		},
-		{
 			"Name": "OnlineSubsystemOculus",
 			"Enabled": true
 		},
