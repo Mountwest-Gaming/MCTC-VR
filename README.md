@@ -1,5 +1,8 @@
 # VR-Classroom
 
+-------------------------------------
+
+
 
 Originally based on room 232, this representation of a Mountwest classroom has so far been equipped (2019) with a small prototype level grey-box. Inside that level is a Player Character that implements an Interface, the walls are separate Blueprints that also implement the interface.
 
@@ -17,11 +20,21 @@ At the time of writing this, they are all separate classes. The objective is to 
 
 .. in 215 students should have a solid understanding of Class relationships, inheritance, and interfaces.
 
+-------------------------------------
+
+
+
 //to be continued
+-------------------------------------
 
 
-####Random Link for Cory
+#Links
+
+
+Link to Oculus Fork of the Unreal Engine
 https://github.com/Oculus-VR/UnrealEngine/tree/4.23
 
 Design Doc
 https://docs.google.com/document/d/1scwpX6WGKFBIi6jMBgyRhl1P3glBQNoceW_3mz-5HT4/edit?usp=sharing
+
+
