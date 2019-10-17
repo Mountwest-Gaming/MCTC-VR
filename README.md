@@ -22,6 +22,27 @@ At the time of writing this, they are all separate classes. The objective is to 
 
 -------------------------------------
 
+#Team - 2019
+
+Lead Designer: Seth
+
+Event Programmer: Megan
+
+Player Programmer: Devon
+
+AI Programmer: Hunter
+
+3D Art: Austin
+
+Sound: Gage
+
+VFX: Seth
+
+Design: 
+
+Programming: 
+
+Textures: 
 
 
 //to be continued
