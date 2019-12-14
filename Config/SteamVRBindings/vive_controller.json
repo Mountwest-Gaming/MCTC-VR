@@ -8,17 +8,6 @@
 		{
 			"sources": [
 				{
-					"mode": "button",
-					"path": "/user/hand/right/input/a",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/TeleportRight"
-						}
-					}
-				},
-				{
 					"mode": "trackpad",
 					"path": "/user/hand/right/input/trackpad",
 					"inputs":
@@ -30,7 +19,7 @@
 					}
 				},
 				{
-					"mode": "trigger",
+					"mode": "button",
 					"path": "/user/hand/left/input/trigger",
 					"inputs":
 					{
@@ -41,24 +30,13 @@
 					}
 				},
 				{
-					"mode": "trigger",
+					"mode": "button",
 					"path": "/user/hand/right/input/trigger",
 					"inputs":
 					{
 						"click":
 						{
 							"output": "/actions/main/in/GrabRight"
-						}
-					}
-				},
-				{
-					"mode": "button",
-					"path": "/user/hand/left/input/a",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/TeleportLeft"
 						}
 					}
 				},
@@ -70,6 +48,17 @@
 						"click":
 						{
 							"output": "/actions/main/in/TeleportLeft"
+						}
+					}
+				},
+				{
+					"mode": "button",
+					"path": "/user/hand/right/input/grip",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/SpawnItem"
 						}
 					}
 				},
@@ -129,5 +118,5 @@
 			]
 		}
 	},
-	"description": "First Person BP Game Template-10570792"
+	"description": "MCTC-10570792"
 }

@@ -35,6 +35,10 @@
 		{
 			"Name": "MLSDK",
 			"Enabled": false
+		},
+		{
+			"Name": "SteamAudio",
+			"Enabled": true
 		}
 	]
 }

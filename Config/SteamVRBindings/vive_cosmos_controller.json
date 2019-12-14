@@ -8,72 +8,6 @@
 		{
 			"sources": [
 				{
-					"mode": "button",
-					"path": "/user/hand/right/input/a",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/TeleportRight"
-						}
-					}
-				},
-				{
-					"mode": "joystick",
-					"path": "/user/hand/right/input/joystick",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/TeleportRight"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/left/input/trigger",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/GrabLeft"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
-					"path": "/user/hand/right/input/trigger",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/GrabRight"
-						}
-					}
-				},
-				{
-					"mode": "button",
-					"path": "/user/hand/left/input/a",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/TeleportLeft"
-						}
-					}
-				},
-				{
-					"mode": "joystick",
-					"path": "/user/hand/left/input/joystick",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/TeleportLeft"
-						}
-					}
-				},
-				{
 					"mode": "joystick",
 					"path": "/user/hand/left/input/joystick",
 					"inputs":
@@ -129,5 +63,5 @@
 			]
 		}
 	},
-	"description": "First Person BP Game Template-10570792"
+	"description": "MCTC-10570792"
 }

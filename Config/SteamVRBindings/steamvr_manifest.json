@@ -94,6 +94,10 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/SpawnItem",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d",
 			"type": "vector2"
 		},
@@ -220,6 +224,7 @@
 			"/actions/main/in/GrabLeft": "GrabLeft",
 			"/actions/main/in/GrabRight": "GrabRight",
 			"/actions/main/in/TeleportLeft": "TeleportLeft",
+			"/actions/main/in/SpawnItem": "SpawnItem",
 			"/actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d": "MotionControllerThumbLeft",
 			"/actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d": "MotionControllerThumbRight",
 			"/actions/main": "Main Game Actions"
