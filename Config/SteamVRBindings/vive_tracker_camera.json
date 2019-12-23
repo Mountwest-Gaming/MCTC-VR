@@ -63,6 +63,17 @@
 					}
 				},
 				{
+					"mode": "button",
+					"path": "/user/hand/right/input/trigger",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/ThrowProbe"
+						}
+					}
+				},
+				{
 					"mode": "trackpad",
 					"path": "/user/hand/left/input/trackpad",
 					"inputs":
@@ -129,5 +140,5 @@
 			]
 		}
 	},
-	"description": "MCTC-10570792"
+	"description": "MCTC-10757647"
 }
