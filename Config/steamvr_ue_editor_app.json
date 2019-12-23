@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.mctc-10570792.ue4editor.exe",
+			"app_key": "application.generated.ue.mctc-10757647.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "F:/Projects/VR-Classroom/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "MCTC-10570792 [UE Editor]"
+					"name": "MCTC-10757647 [UE Editor]"
 				}
 			}
 		}
